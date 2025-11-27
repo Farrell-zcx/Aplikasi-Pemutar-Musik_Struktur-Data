@@ -75,7 +75,7 @@ Gunakan akun berikut untuk masuk ke aplikasi:
 Proyek ini dibuat untuk memenuhi tugas Struktur Data dan Algoritma, mendemonstrasikan pemahaman tentang pointer, manajemen memori dinamis, dan operasi linked list.
 
 ---
-*Created by Kelompok 5:
+## Created by Kelompok 5:
 FARREL LABIB ALHAIDAR (103132400009)
 ARDIAN NAFIS SAMUDRA (103132400012)
 AHNAF ARIACHEDA (103132400037)
